@@ -17,3 +17,5 @@ Ce dépôt contient les ressources pour le cours M1102 du département de l'IUT 
 * Mustapha Lebbah
 * Bouchaïb Lemaire
 * Guillaume Santini
+
+**Remarques :** Les exercices dans le répertoire `Soutien` proviennent tous (sauf celui sur les affichages) d'exercices postés sur `exercism.io` (la forme a été modifiée pour les besoins du cours).
